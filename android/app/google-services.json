@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605346534634",
+    "project_id": "tsacademy-81fef",
+    "storage_bucket": "tsacademy-81fef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605346534634:android:b46e6b74a29763b8ef3393",
+        "android_client_info": {
+          "package_name": "com.ts_academy.ts_academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605346534634-qis6s4v3jpogar1ls1csgfnpe4atge0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4rjbp6vVvirTdLhEw9thDHy2ktBVE_Tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605346534634-qis6s4v3jpogar1ls1csgfnpe4atge0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
